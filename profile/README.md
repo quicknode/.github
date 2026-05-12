@@ -4,6 +4,6 @@
 
 Hey, there! Welcome to the Quicknode GitHub page. 👋
 
-Quicknode is the backbone of blockchain development, empowering the Web3 revolution with our robust and scalable blockchain infrastructure. As a premier platform, we provide developers with the high-performance tools and services needed to build the next generation of decentralized applications. Dive into our repositories to find cutting-edge solutions for seamless blockchain integration. ✅
+Quicknode is the enterprise-grade blockchain platform for teams that demand the fastest, most reliable infrastructure. ✅
 
-Join us in accelerating the world's transition to decentralized technologies. Explore, contribute, and build with Quicknode — where speed, reliability, and security meet innovation. 🚀
+Quicknode maintain a wide variety of example onchain programs / smart contracts, tools and other technnologies. We'll be migrating some of our open source work here from the older [`quiknode-labs`](https://github.com/quiknode-labs) shortly. 
